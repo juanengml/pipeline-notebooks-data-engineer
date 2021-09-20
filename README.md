@@ -9,5 +9,7 @@
 
 $ pip install console-logging pandas requests papermill 
 
+$ python3 pipeline.py 
+
 ```  
 
